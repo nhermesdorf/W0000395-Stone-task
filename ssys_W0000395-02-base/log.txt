@@ -1,0 +1,55 @@
+session {11/19 3:13:38pm > Norbert opened job C:/ProgramData/Stratasys/FDMControlCenter/10.2/jobs/Norbert0/Default.sjb.  Insight 10.2 (4618).}
+msg {3:13:39pm > Read 14540 facets in 0:00 from "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000395 Stone task/W0000395-02-base.STL"}
+msg {3:13:39pm > STL comment: solid W0000395-02-base}
+msg {3:13:39pm > 60 free surface edges left in model (object is not closed).}
+msg {3:13:39pm > Bounding box of this STL X, Y, Z:}
+msg {3:13:39pm >       min = (-0.0000, 0.0000, 0.0000)}
+msg {3:13:39pm >       max = (250.0000, 30.0000, 180.0000)}
+msg {3:13:40pm > Done loading STL file after 2 sec.}
+msg {3:14:48pm > 	Slice height:	0.1778}
+msg {3:14:50pm > Done slicing after 2 sec.}
+msg {3:15:29pm > 	Part fill style:	One contour /  rasters}
+msg {3:15:29pm > 	Part interior style:	Sparse}
+msg {3:15:29pm > 	Contour width:	0.3556}
+msg {3:15:29pm > 	Part raster width:	0.3556}
+msg {3:15:48pm > Done generating toolpaths after 19 sec.}
+msg {3:16:31pm > Range top at 27.915, bottom at 0.000}
+msg {3:16:45pm > Range top at 27.915, bottom at 19.558}
+msg {3:16:47pm > Range top at 27.915, bottom at 19.558}
+msg {3:17:23pm > Total of 419 curves selected, 419 new.}
+msg {3:17:48pm > 	Part fill style:	One contour /  rasters}
+msg {3:17:48pm > 	Part interior style:	Sparse}
+msg {3:17:48pm > 	Contour width:	0.3556}
+msg {3:17:48pm > 	Part raster width:	0.3556}
+msg {3:17:58pm > Done generating toolpaths after 10 sec.}
+msg {3:19:37pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000395 Stone task/ssys_W0000395-02-base/W0000395-02-base.sjb}
+:57pm > Generating supports}
+msg {3:19:03pm > Done generating supports after 14 sec.}
+msg {3:19:04pm > Done writing boundary curves after 5 sec.}
+msg {3:19:04pm > 	Part fill style:	One contour /  rasters}
+msg {3:19:04pm > 	Part interior style:	Sparse}
+msg {3:19:04pm > 	Contour width:	0.3556}
+msg {3:19:04pm > 	Part raster width:	0.3556}
+msg {3:19:24pm > Done generating toolpaths after 24 sec.}
+msg {3:19:34pm > 	Est. build time:	13 hr 36 min }
+msg {3:19:34pm > 	Model material:	195.658 cm³}
+msg {3:19:34pm > 	Support material:	33.336 cm³}
+msg {3:19:34pm > Done writing CMB file after 13 sec.}
+msg {3:19:34pm > Job Summary}
+msg {3:19:34pm > 	Full job path:	Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000395 Stone task/ssys_W0000395-02-base/W0000395-02-base.sjb}
+msg {3:19:34pm > 	Toolpath file name:	W0000395-02-base.cmb}
+msg {3:19:34pm > 	Modeler:		Fortus 360mc Small}
+msg {3:19:34pm > 	Est. build time:	13 hr 36 min }
+msg {3:19:34pm > 	Model material:	195.658 cm³,	T12,	PC-ABS}
+msg {3:19:34pm > 	Support material:	33.336 cm³,	T12,	SR20 support}
+msg {3:19:34pm > 	Slice height:	0.1778}
+msg {3:19:34pm > 	Part fill style:	One contour /  rasters}
+msg {3:19:34pm > 	Part interior style:	Sparse}
+msg {3:19:34pm > 	Visible surface style:	Normal}
+msg {3:19:34pm > 	Support style:	SMART}
+msg {3:19:34pm > 	Contour width:	0.3556}
+msg {3:19:34pm > 	Number of contours:	1.4224}
+msg {3:19:34pm > 	Part interior contours:	0.4064}
+msg {3:19:34pm > 	Part raster width:	0.3556}
+msg {3:19:34pm > 	Application:	Insight 10.2, Build version: 4618}
+msg {3:19:34pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000395 Stone task/ssys_W0000395-02-base/W0000395-02-base.sjb,  approximate build time 13 hr 36 min }

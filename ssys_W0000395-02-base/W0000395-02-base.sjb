@@ -1,0 +1,6 @@
+# Product version 10.2
+# Build version 4618
+setVersionVar currentJobCore "W0000395-02-base";
+setVersionVar stlDirectory "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000395 Stone task";
+setVersionVar stlPath "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000395 Stone task/W0000395-02-base.STL";
+setVersionVar toolpathFile "W0000395-02-base.cmb";
